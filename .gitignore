@@ -1,0 +1,22 @@
+# Fichiers de compilation Java
+*.class
+
+# Dossier target Maven
+target/
+
+# Fichiers IDE
+.idea/
+*.iml
+
+# Fichiers système
+.DS_Store
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
