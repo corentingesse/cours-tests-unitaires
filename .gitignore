@@ -20,3 +20,6 @@ target/
 # Fichiers de sauvegarde
 *.bak
 *.swp
+
+/prometheus-2.47.0.windows-amd64
+/data
