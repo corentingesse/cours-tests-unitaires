@@ -2,7 +2,7 @@ name: Maven Test
 
 on:
   push:
-    branches: [ main ]
+    branches: [ exercice-3 ]
 
 jobs:
   test:
